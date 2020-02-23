@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8651344-2db1-4b7c-91d3-d6a8b027c86a" name="Default Changelist" comment="" />
+    <list default="true" id="49ad26b3-a974-48bd-a1f9-a4d3b3fd7395" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1YA2iT1zOt8188ipjYzhRi5pOLX" />
+  <component name="ProjectId" id="1YAPR8lRIrp0CygNrDpl7UtNUIw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,15 +22,73 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.CountDownLatchDemo" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learn.interview.blockingqueue" />
+      <recent name="com.learn.interview.thread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeadLockDemo">
+    <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.interview.thread.producerconsumer.BlockingQueueDemo" />
       <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="com.learn.interview.thread.producerconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.interview.thread.pool.CallableDemo" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.interview.thread.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.interview.thread.pool.DeadLockDemo" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.interview.thread.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.interview.thread.producerconsumer.MultiConditionDemo" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.interview.thread.producerconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolExecutorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.interview.thread.pool.ThreadPoolExecutorDemo" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.interview.thread.pool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,34 +98,38 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.ThreadPoolExecutorDemo" />
+        <item itemvalue="Application.CallableDemo" />
+        <item itemvalue="Application.BlockingQueueDemo" />
+        <item itemvalue="Application.MultiConditionDemo" />
       </list>
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1582371704964">
+    <state x="446" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1582452104432">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582371704964" />
-    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1582371704963">
+    <state x="446" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1582452104432" />
+    <state width="1240" height="244" key="GridCell.Tab.0.bottom" timestamp="1582452614256">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1582371704963" />
-    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1582371704963">
+    <state width="1240" height="244" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582452614256" />
+    <state width="1240" height="244" key="GridCell.Tab.0.center" timestamp="1582452614256">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1582371704963" />
-    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1582371704963">
+    <state width="1240" height="244" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1582452614256" />
+    <state width="1240" height="244" key="GridCell.Tab.0.left" timestamp="1582452614256">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582371704963" />
-    <state x="142" y="22" key="SettingsEditor" timestamp="1582377872251">
+    <state width="1240" height="244" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1582452614256" />
+    <state width="1240" height="244" key="GridCell.Tab.0.right" timestamp="1582452614256">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1582377872251" />
-    <state x="303" y="82" key="search.everywhere.popup" timestamp="1582371511065">
+    <state width="1240" height="244" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582452614256" />
+    <state x="305" y="84" width="672" height="678" key="search.everywhere.popup" timestamp="1582449669654">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="303" y="82" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1582371511065" />
+    <state x="305" y="84" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1582449669654" />
   </component>
 </project>
